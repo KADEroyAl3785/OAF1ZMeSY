@@ -5,7 +5,6 @@ const nextjsAppRouterBestPractices = [
 "Use server components by default",
 "Implement client components only when necessary",
 "Utilize the new file-based routing system",
-"Use layout.tsx for shared layouts",
 "Implement loading.js for loading states",
 "Use error.js for error handling",
 "Utilize route handlers for API routes",
